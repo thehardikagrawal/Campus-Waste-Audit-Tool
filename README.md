@@ -63,11 +63,17 @@ Waste-Audit-Tool/
 
 ### Pie Chart
 Displays the **percentage share** of each waste category in a colour-coded pie.
+### Pie Chart
+![Pie Chart](pie_chart.png)
+
 
 ### Bar Graph
 Shows the **weight (in kg)** for each category with labelled bars for easy comparison.
 
 Both images are saved in the same folder as the script when the audit is run.
+### Bar Graph
+
+![Bar Graph](bar_graph.png)
 
 ---
 
@@ -129,10 +135,5 @@ Free to use and modify for educational use.
 
 *Made with 🌱 for a greener campus.*
 
-## 📊 Output Preview
 
-### Bar Graph
-![Bar Graph](bar_graph.png)
 
-### Pie Chart
-![Pie Chart](pie_chart.png)
